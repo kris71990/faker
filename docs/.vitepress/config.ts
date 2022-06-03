@@ -89,11 +89,7 @@ export default defineConfig({
       // { text: 'Playground', link: '/playground/' },
       {
         text: 'Ecosystem',
-        items: [
-          { text: 'Discord ', link: 'https://chat.fakerjs.dev' },
-          { text: 'StackBlitz ', link: 'https://fakerjs.dev/new' },
-          { text: 'Twitter ', link: 'https://twitter.com/faker_js' },
-        ],
+        items: [{ text: 'StackBlitz ', link: 'https://fakerjs.dev/new' }],
       },
       {
         text: 'About',
